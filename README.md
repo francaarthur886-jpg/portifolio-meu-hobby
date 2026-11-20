@@ -38,23 +38,6 @@ muay-thai-journey/
 └── apple-touch-icon.png
 ```
 
-## Como rodar
-
-1. Baixe ou clone o repositório.
-2. Abra o `index.html` no navegador.
-
-Se quiser, abra a pasta no VS Code e use a extensão Live Server para ver as alterações em tempo real.
-
-## Como publicar no GitHub Pages
-
-1. No repositório, vá em **Settings → Pages**.
-2. Em *Branch*, escolha `main` e a pasta `/ (root)`.
-3. Salve e aguarde 1 a 2 minutos. O link do site aparece na mesma página.
-
-## Como trocar os vídeos
-
-Os vídeos ficam na pasta `videos/` e a lista de nomes está no começo da seção de vídeos do `js/script.js`. Ao trocar um arquivo, mantenha o mesmo nome ou atualize a lista.
-
 ## Contato
 
 francaarthur886@gmail.com
